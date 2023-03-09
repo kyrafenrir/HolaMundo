@@ -1,2 +1,0 @@
-# HolaMundo
-Ejercicio 4 
